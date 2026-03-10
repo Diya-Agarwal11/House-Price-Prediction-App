@@ -1,4 +1,4 @@
-# House Price Prediction App
+#** House Price Prediction App**
 
 An interactive machine learning web application built with **Streamlit** that predicts house prices based on key features such as size, number of bedrooms, and age.  
 
@@ -6,14 +6,14 @@ This project demonstrates how regression models can be applied to real estate da
 
 ---
 
-## App Preview
-[House Price Prediction App.zip](https://github.com/user-attachments/files/25867576/House.Price.Prediction.App.zip)
+## **App Preview**
 
+https://github.com/user-attachments/assets/d96af06b-2a64-4586-a388-9eb679871c92
 
 
 ---
 
-## 🔑 Key Insights
+##**Key Insights**
 - House size, number of bedrooms, and age are strong predictors of price.  
 - Larger houses with more bedrooms generally have higher estimated prices.  
 - The app provides instant predictions once user inputs are entered.  
@@ -21,7 +21,7 @@ This project demonstrates how regression models can be applied to real estate da
 
 ---
 
-## 🚀 Features
+##**Features**
 - **Interactive Input Fields** → Enter house size, bedrooms, and age.  
 - **Real-Time Predictions** → Get instant estimated house prices.  
 - **Model Training Script** → Train your own regression model using `house_data.csv`.  
@@ -29,7 +29,7 @@ This project demonstrates how regression models can be applied to real estate da
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##**Tools & Technologies Used**
 - **Python**  
 - **Streamlit** → For building the interactive web app  
 - **Pandas** → For data handling and preprocessing  
@@ -38,7 +38,7 @@ This project demonstrates how regression models can be applied to real estate da
 
 ---
 
-## 📂 Dataset Information
+##**Dataset Information**
 The dataset (`house_data.csv`) contains information about houses including:
 - Size (sq ft)  
 - Number of Bedrooms  
@@ -47,18 +47,18 @@ The dataset (`house_data.csv`) contains information about houses including:
 
 ---
 
-## 🎯 Project Objectives
+## **Project Objectives**
 - To build a regression model that predicts house prices.  
 - To demonstrate how machine learning can be integrated into a web app.  
 - To provide a simple, interactive tool for property price estimation.  
-- To practice end-to-end ML workflow: data → model → deployment.  
+- To practice end-to-end ML workflow: data → model → deployment.
+
+## **Author**
+Diya Agarwal
 
 ---
 
-## ⚙️ Installation
+## **Installation**
 Clone the repository and install dependencies:
 
-```bash
-git clone https://github.com/your-username/house-price-prediction.git
-cd house-price-prediction
-pip install -r requirements.txt
+
